@@ -18,28 +18,6 @@ As seguintes tecnologias foram empregadas na criação desta apresentação:
 
 O repositório está organizado da seguinte forma:
 
-Markdown
-
-# Apresentação SkillScan
-
-Este repositório contém o código-fonte de uma apresentação sobre o SkillScan, desenvolvida utilizando tecnologias web como HTML e CSS.
-
-## 🚀 Sobre o Projeto
-
-A apresentação explora o SkillScan, uma ferramenta ou conceito (detalhes a serem preenchidos pelo autor), com foco em [Adicionar objetivo principal da apresentação aqui. Ex: demonstrar suas funcionalidades, explicar seus benefícios, etc.].
-
-## 🛠️ Tecnologias Utilizadas
-
-As seguintes tecnologias foram empregadas na criação desta apresentação:
-
-* **HTML5:** Para a estrutura e o conteúdo da apresentação.
-* **CSS3:** Para a estilização e o design visual.
-* **JavaScript (opcional):** [Se houver interatividade ou funcionalidades dinâmicas, mencionar aqui. Caso contrário, remover este item.]
-
-## 📁 Estrutura do Repositório
-
-O repositório está organizado da seguinte forma:
-
 apresentacao-skillscan/
 │
 ├── css/ # Arquivos de estilo CSS
