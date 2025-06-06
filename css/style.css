@@ -170,7 +170,7 @@ li {
     line-height: 1.2;
 }
 
-.hero h1 .hero-highlight {
+.hero h1 {
     color: var(--color-purple);
     font-weight: 700;
     display: block;
@@ -617,7 +617,7 @@ footer a:hover {
     .hero h1 {
         font-size: 2.5em;
     }
-    .hero h1 .hero-highlight {
+    .hero h1  {
         font-size: 1.3em;
         margin-top: -5px;
     }
@@ -657,4 +657,12 @@ footer a:hover {
     .cta-final-buttons .btn-large:last-child {
         margin-bottom: 0;
     }
+}
+.logo-navbar {
+    height: 40px;
+    width: auto;
+}
+.texto-inicial{
+    color: var(--color-text-secondary-on-dark) !important;
+    font-size: 35px !important;
 }
